@@ -5,7 +5,7 @@
   "main": "browserStorage.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoryNunn/gaffa-browser-storage.git"
+    "url": "git+https://github.com/KoryNunn/gaffa-browser-storage.git"
   },
   "bugs": {
     "url": "https://github.com/KoryNunn/gaffa-browser-storage/issues"
@@ -18,5 +18,10 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "browser storage action for [gaffa](https://github.com/gaffa-tape/gaffa-js).",
+  "homepage": "https://github.com/KoryNunn/gaffa-browser-storage#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
