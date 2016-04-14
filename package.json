@@ -1,7 +1,7 @@
 {
   "name": "gaffa-browser-storage",
   "author": "Kory Nunn <knunn187@gmail.com>",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "browserStorage.js",
   "repository": {
     "type": "git",
